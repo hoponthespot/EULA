@@ -3,9 +3,7 @@ EULA for Any and All Repos (and software distributed on said repos) that i have 
 
 
 
-
-
-End User License Agreement ("Agreement")
+End User License Agreement ("EULA")
 Last updated: (08/01/2021)
 
 Please read this End User License Agreement ("Agreement") carefully before clicking the "I Agree"
@@ -29,7 +27,7 @@ Energy Client CO reserves the right to modify, suspend or discontinue, temporari
  
 
 Term and Termination
- This Agreement shall remain in effect until terminated by you or Energy Client CO My Company (change this)​may, in its sole discretion, at any time and for any or no reason,
+ This Agreement shall remain in effect until terminated by you or Energy Client CO may, in its sole discretion, at any time and for any or no reason,
 suspend or terminate this Agreement with or without prior notice.
 This Agreement will terminate immediately, without prior notice from Energy Client CO,in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your mobile device or from your desktop.
 Upon termination of this Agreement, you shall cease all use of the Application and delete all copies of the Application from your mobile device or from your desktop.
